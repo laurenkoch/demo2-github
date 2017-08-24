@@ -9,3 +9,4 @@
 **Han**: staging area   
 **Armand**: Git and GitHub has a step learning curve   
 **Meow**: meow   
+**Lauren**: I think I'm finally doing this right
